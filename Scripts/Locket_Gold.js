@@ -17,15 +17,15 @@ var Axtiser = {
     expires_date: "2099-12-18T01:04:17Z", 
     grace_period_expires_date: null, 
     unsubscribe_detected_at: null, 
-    original_purchase_date: "2026-07-20T00:00:00Z",  // Cập nhật ngày tham gia
-    purchase_date: "2026-07-20T00:00:00Z",  // Cập nhật ngày tham gia
+    original_purchase_date: "2009-10-08T00:00:00Z",  // Cập nhật ngày tham gia
+    purchase_date: "2009-10-08T00:00:00Z",  // Cập nhật ngày tham gia
     store: "app_store"
 };
 
 
 var MinhHoang200709 = {
     grace_period_expires_date: null, 
-    purchase_date: "2026-07-20T00:00:00Z",  // Cập nhật ngày tham gia
+    purchase_date: "2009-10-08T00:00:00Z",  // Cập nhật ngày tham gia
     product_identifier: "com.axtiser.premium.yearly",  // Đã thay đổi tên sản phẩm
     expires_date: "2099-12-18T01:04:17Z"
 };
